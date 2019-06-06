@@ -1,2 +1,1 @@
-syrian
-thus is test
+print("Hello world")
